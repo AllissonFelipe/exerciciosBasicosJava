@@ -1,5 +1,3 @@
-package basic1;
-
 public class Ex011 {
     public static void main(String[] args) {
         double radius = 7.5F;
