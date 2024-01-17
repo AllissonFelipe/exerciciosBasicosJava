@@ -1,5 +1,3 @@
-package basic1;
-
 public class Ex008 {
     public static void main(String[] args) {
         System.out.println("   J    a    v     v  a");
