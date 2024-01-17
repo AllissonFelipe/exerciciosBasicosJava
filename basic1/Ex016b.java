@@ -1,5 +1,3 @@
-package basic1;
-
 public class Ex016b {
     public static void main(String[] args) {
         String[] array = new String[5];
