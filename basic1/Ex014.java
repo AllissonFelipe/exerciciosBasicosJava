@@ -1,5 +1,3 @@
-package basic1;
-
 public class Ex014 {
     public static void main(String[] args) {
         System.out.println("* * * * * * ==================================");
