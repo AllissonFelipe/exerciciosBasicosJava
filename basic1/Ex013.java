@@ -1,5 +1,3 @@
-package basic1;
-
 public class Ex013 {
     public static void main(String[] args) {
         float base = 5.6f;
