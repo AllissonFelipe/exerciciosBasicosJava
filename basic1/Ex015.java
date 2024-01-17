@@ -1,5 +1,3 @@
-package basic1;
-
 public class Ex015 {
     public static void main(String[] args) {
         int var1 = 3;
