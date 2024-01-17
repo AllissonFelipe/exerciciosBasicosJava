@@ -1,5 +1,3 @@
-package basic1;
-
 public class Ex004 {
     public static void main(String[] args) {
         int op1 = -8 + 3 * 6;
