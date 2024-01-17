@@ -1,5 +1,3 @@
-package basic1;
-
 public class Ex014b {
     public static void main(String[] args) {
         String parte1 = "* * * * * * ==================================\n * * * * *  ==================================";
